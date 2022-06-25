@@ -35,4 +35,5 @@
 _**If you are interested about those maps ↓ contact me on discord**_ `Grape#9999`
 <link href="style.css" rel="stylesheet">
 <img src="https://i.postimg.cc/HLjwJcnZ/map-list.png" alt="Map List" class="img">
-[View light mode](https://i.postimg.cc/HLjwJcnZ/map-list.png)
+
+[View light mode](https://i.postimg.cc/C1nhWJ2C/map-list.png)
