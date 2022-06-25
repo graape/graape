@@ -9,9 +9,9 @@
 
 </p>
 
-## Gabz MLO Interriors
+## MLO Interriors
 ![Status](https://img.shields.io/badge/Status-Still%20Updating-blue) ![Support](https://img.shields.io/badge/Support-Unavailable-critical)
-### Available maps here:
+### Available here:
 - [Gabz Pillbox Hill Hospital](https://www.mediafire.com/file/ujyn9ts60r3wtb2/Pillbox_hospital_files_gabz_with_parking.rar/file)
 - [Gabz Mission Row Police Dept.](http://www.mediafire.com/file/c5ko9gxar4ldmkr/gabz_mrpd_fivem_update_extra_world.7z/file)
 - [Gabz Hayes Auto](https://www.mediafire.com/file/vwivl1c3rbbuqra/HayesAuto-Fly_Leaks.rar/file)
@@ -23,3 +23,9 @@
 - [Gabz Bennys Motorworks](https://www.mediafire.com/file/zmvcgrtkuevqi25/GabzBennys-Fly_Leaks.rar/file)
 - [Gabz Pops Dinner](http://www.mediafire.com/file/bplebzh9xm515bo/GABZ+popsdiner-Fly+Leaks.rar/file)
 - [Gabz Imperial](http://www.mediafire.com/file/0h8e61t6j06wzby/gabz_imp_garage_%25282%2529.rar/file)
+- [Brofx Mansion 6](https://www.mediafire.com/file/tqc78dphhi6iyfr/brofx_mansion_06.zip/file)
+- [Brofx Mansion 7](https://www.mediafire.com/file/nxgiy54a494acnr/brofx_mansion_07.zip/file)
+- [Brofx Mansion 8](https://www.mediafire.com/file/qc4kok3hs6m6c7m/brofx_mansion08.zip/file)
+- [Brofx Mansion 10]()
+- [Brofx Villa 2]()
+- [Brofx Villa 4]()
