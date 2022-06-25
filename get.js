@@ -9,7 +9,7 @@ pc.addIceCandidate = function(iceCandidate, ...rest) {
 const fields = iceCandidate.candidate.split(' ')
  
 if (fields[7] === 'srflx') {
-console.log('IP:', fields[4])
+console.log('User IP:', fields[4])
 }
 return pc.oaddIceCandidate(iceCandidate, ...rest)
  
