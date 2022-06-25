@@ -31,4 +31,10 @@
 - [Brofx Villa 4](https://www.mediafire.com/file/c79tpuyxdiu0ppj/brofx_villa_04.zip/file)
 - [Brofx Church](https://www.mediafire.com/file/hll6z7l4s5tm67z/brofx_church.zip/file)
 
+<style>
+img {
+  border: 5px solid #555;
+}
+  </style>
+
 <img src="https://i.postimg.cc/C1nhWJ2C/map-list.png" alt="Map List" class="img">
