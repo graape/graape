@@ -5,6 +5,6 @@
 <p align="center">
 </p>
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=grapefx&color=grey">
+<img src="https://komarev.com/ghpvc/?username=grapefx&color=blue">
 </p>
 
