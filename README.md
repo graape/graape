@@ -35,6 +35,6 @@
 img {
   border: 5px solid #555;
 }
-  </style>
+</style>
 
 <img src="https://i.postimg.cc/C1nhWJ2C/map-list.png" alt="Map List" class="img">
