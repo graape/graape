@@ -31,5 +31,6 @@
 - [Brofx Villa 4](https://www.mediafire.com/file/c79tpuyxdiu0ppj/brofx_villa_04.zip/file)
 - [Brofx Church](https://www.mediafire.com/file/hll6z7l4s5tm67z/brofx_church.zip/file)
 
+__**If you are interested about those maps ↓ contact me on discord**__ `Grape#9999`
 <link href="style.css" rel="stylesheet">
 <img src="https://i.postimg.cc/C1nhWJ2C/map-list.png" alt="Map List" class="img">
