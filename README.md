@@ -10,7 +10,7 @@
 </p>
 
 ## MLO Interriors
-![Status](https://img.shields.io/badge/status-Still%20Updating-oragne) ![Support](https://img.shields.io/badge/issues-closed-critical)
+![Status](https://img.shields.io/badge/status-updating-yellow) ![Support](https://img.shields.io/badge/issues-closed-critical)
 ### Available here:
 - [Gabz Pillbox Hill Hospital](https://www.mediafire.com/file/ujyn9ts60r3wtb2/Pillbox_hospital_files_gabz_with_parking.rar/file)
 - [Gabz Mission Row Police Dept.](http://www.mediafire.com/file/c5ko9gxar4ldmkr/gabz_mrpd_fivem_update_extra_world.7z/file)
@@ -27,5 +27,6 @@
 - [Brofx Mansion 7](https://www.mediafire.com/file/nxgiy54a494acnr/brofx_mansion_07.zip/file)
 - [Brofx Mansion 8](https://www.mediafire.com/file/qc4kok3hs6m6c7m/brofx_mansion08.zip/file)
 - [Brofx Mansion 10](https://www.mediafire.com/file/ew0jfteoo53eoba/brofx_mansion_10.zip/file)
-- [Brofx Villa 2]()
-- [Brofx Villa 4]()
+- [Brofx Villa 2](https://www.mediafire.com/file/vo4d4qs0a3ooszv/brofx_villa02.zip/file)
+- [Brofx Villa 4](https://www.mediafire.com/file/c79tpuyxdiu0ppj/brofx_villa_04.zip/file)
+- [Brofx Church](https://www.mediafire.com/file/hll6z7l4s5tm67z/brofx_church.zip/file)
