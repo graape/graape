@@ -40,4 +40,5 @@ _**If you are interested about those maps ↓ contact me on discord**_ `Grape#99
 
 ## CSGO selectfire.cc config
 ![Status](https://img.shields.io/badge/status-release-green) ![Support](https://img.shields.io/badge/issues-closed-critical)
-- [Download](https://www.mediafire.com/file/5jio7r5jzy9aj9z/jebsystem_config/file)
+### Download it:
+- [here](https://www.mediafire.com/file/5jio7r5jzy9aj9z/jebsystem_config/file)
