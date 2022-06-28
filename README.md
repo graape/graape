@@ -40,5 +40,6 @@ _**If you are interested about those maps ↓ contact me on discord**_ `Grape#99
 
 ## CSGO selectfire.cc config
 ![Status](https://img.shields.io/badge/status-release-green) ![Support](https://img.shields.io/badge/issues-closed-critical)
-### Download it:
-- [here](https://www.mediafire.com/file/5jio7r5jzy9aj9z/jebsystem_config/file)
+### Download here:
+- [Semi legit](https://www.mediafire.com/file/lb99006usf5kafz/Summer_2022.json/file)
+- [Rage](https://www.mediafire.com/file/mzyt1g1uo3bwvxa/Summer_2022_%25E2%2580%2593_RAGE.json/file)
