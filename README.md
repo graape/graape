@@ -36,6 +36,8 @@ _**If you are interested about those maps ↓ contact me on discord**_ `Grape#99
 <link href="style.css" rel="stylesheet">
 <img src="https://i.postimg.cc/HLjwJcnZ/map-list.png" alt="Map List" class="img">
 
+[View light mode](https://i.postimg.cc/C1nhWJ2C/map-list.png)
+
 ## CSGO selectfire.cc config
 ![Status](https://img.shields.io/badge/status-release-green) ![Support](https://img.shields.io/badge/issues-closed-critical)
 ### Download here:
