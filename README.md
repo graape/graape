@@ -36,10 +36,10 @@ _**If you are interested about those maps ↓ contact me on discord**_ `Grape#99
 <link href="style.css" rel="stylesheet">
 <img src="https://i.postimg.cc/HLjwJcnZ/map-list.png" alt="Map List" class="img">
 
-[View light mode](https://i.postimg.cc/C1nhWJ2C/map-list.png)
-
 ## CSGO selectfire.cc config
 ![Status](https://img.shields.io/badge/status-release-green) ![Support](https://img.shields.io/badge/issues-closed-critical)
 ### Download here:
-- [Semi legit](https://www.mediafire.com/file/lb99006usf5kafz/Summer_2022.json/file)
-- [Rage](https://www.mediafire.com/file/mzyt1g1uo3bwvxa/Summer_2022_%25E2%2580%2593_RAGE.json/file)
+- [Semi legit (old)](https://www.mediafire.com/file/lb99006usf5kafz/Summer_2022.json/file)
+- [Rage (old)](https://www.mediafire.com/file/mzyt1g1uo3bwvxa/Summer_2022_%25E2%2580%2593_RAGE.json/file)
+
+[Download latest configs](https://github.com/graape/graape/tree/main/Counter-Strike%20Global%20Offensive)
